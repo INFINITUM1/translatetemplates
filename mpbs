@@ -1,0 +1,22 @@
+id	idTemplate	name	serverSideName	title	serverSideTitle	class	collision_radius	collision_height	level	sex	type	attackrange	hp	mp	hpreg	mpreg	str	con	dex	int	wit	men	exp	sp	patk	pdef	matk	mdef	atkspd	aggro	matkspd	rhand	lhand	armor	walkspd	runspd	faction_id	faction_range	isUndead	absorb_level	absorb_type
+70017	25329	Violet	0		0	Monster2.vampire_witch	6,00	21,50	80	female	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	946	0	0	70	209		0	0	0	LAST_HIT
+70016	25289	Anakim's Executor	0		0	Monster2.nephilim_slayer	12,00	36,00	80	male	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	0	0	0	71	209		0	0	0	LAST_HIT
+70015	25288	Anakim's Royal Guard	0		0	Monster2.nephilim_lord	10,00	41,50	80	male	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	0	0	0	71	242		0	0	0	LAST_HIT
+70014	25287	Anakim's Guardian	0		0	Monster2.nephilim_priest	23,00	40,50	80	male	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	0	0	0	55	209		0	0	0	LAST_HIT
+70013	25285	Lilith's Escort	0		0	Monster2.lilim_knight	12,00	50,00	80	male	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	5800	5799	0	61	242		0	0	0	LAST_HIT
+70012	25284	Lilith's Agent	0		0	Monster2.lilim_wizard	9,00	34,00	80	female	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	0	0	0	55	209		0	0	0	LAST_HIT
+70011	29065	Sailren	0		0	Monster3.sailren	100,00	83,10	80	male	L2Monster	40	12000	9999	13,43	3,09	40	43	30	21	20	10	0	0	2700	749	1296	607	400	40	333	0	0	0	88	324		0	0	12	LAST_HIT
+70021	25328	Eilhalder von Hellmann	0		0	Monster2.vampire_lord	7,50	25,80	80	male	L2Monster	40	12000	3718	844,90	9,81	60	57	73	76	70	80	0	0	2700	749	1296	607	400	40	333	0	0	0	24	324		0	0	12	LAST_HIT
+70009	25286	Anakim	0		0	Monster2.anakim	15,50	29,00	80	female	L2Monster	40	12000	3793	842,52	9,81	60	57	73	76	70	80	0	0	2700	749	1296	607	400	40	333	0	0	0	72	324		0	0	12	LAST_HIT
+70008	25283	Lilith	0		0	Monster2.lilith	42,50	55,00	80	female	L2Monster	40	12000	3793	842,52	9,81	60	57	73	76	70	80	0	0	2700	749	1296	607	400	40	333	0	0	0	72	324		0	0	12	LAST_HIT
+70006	20421	Akaste Succubus Tilfo	0		0	Monster.succubus_bi	10,00	43,20	80	female	L2Monster	40	12000	242	5,53	1,53	40	43	30	21	20	10	0	0	2700	749	1296	607	400	40	333	0	0	0	66	324	succubus_clan	300	0	0	LAST_HIT
+70005	20314	Great White Shark	0		0	Monster.great_white_shark	20,00	7,00	80	male	L2Monster	40	12000	589	8,69	2,14	40	43	30	21	20	10	0	0	2700	749	1296	607	400	40	333	0	0	0	88	324		0	0	0	LAST_HIT
+70004	20244	Malruk Succubus	0		0	Monster.succubus	10,00	36,00	80	female	L2Monster	40	12000	987	10,27	2,45	40	43	30	21	20	10	0	0	2700	749	1296	607	400	40	333	0	0	0	66	324	succubus_clan	300	0	0	LAST_HIT
+70003	20242	Dustwind Gargoyle	0		0	Monster.hunter_gargoyle	25,00	65,00	80	male	L2Monster	40	12000	923	10,27	2,45	40	43	30	21	20	10	0	0	2700	749	1296	607	400	40	333	0	0	0	110	324		0	0	0	LAST_HIT
+70002	20137	Drake	0		0	Monster.drake	30,00	100,00	80	male	L2Monster	40	12000	1052	10,27	2,45	40	43	30	21	20	10	0	0	2700	749	1296	607	400	40	333	0	0	0	77	324	dragon_clan	300	0	0	LAST_HIT
+70001	21021	Sharp Talon Tiger	0		0	Monster.saber_toothed_tiger	34,00	28,00	80	male	L2Monster	40	12000	1117	10,27	2,45	40	43	30	21	20	10	0	0	2700	749	1296	607	400	40	333	0	0	0	66	324	beast_clan	300	0	0	LAST_HIT
+70000	31022	Typhoon Tiger	0		0	Monster.giant_bee	8,00	24,50	80	male	L2Monster	40	12000	1493	11,85	2,78	40	43	30	21	20	10	0	0	2700	749	1296	607	400	40	333	0	0	0	99	324		0	0	0	LAST_HIT
+70018	25330	Kurstin	0		0	Monster2.vampire_witch	6,00	21,50	80	female	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	946	0	0	70	209		0	0	0	LAST_HIT
+70019	25331	Mina	0		0	Monster2.vampire_witch	6,00	21,50	80	female	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	946	0	0	70	209		0	0	0	LAST_HIT
+70020	25332	Dorian	0		0	Monster2.vampire_soldier	8,00	23,50	80	male	L2Minion	40	8000	1859	224,36	9,81	40	43	30	41	20	10	0	0	2700	749	1296	607	400	0	333	234	0	0	66	209		0	0	0	LAST_HIT
+71001	31544	Фёдор Евграфыч	1		0	NPC.e_bath_MDwarf	6,00	16,30	70	male	L2Npc	40	3862	1493	11,85	2,78	40	43	30	21	20	10	0	0	1314	470	780	382	278	0	333	0	0	0	88	132		0	1	0	LAST_HIT
